@@ -11,7 +11,7 @@ Put the `.bat` and `.ps1` files inside a directory that contains both (`Skyrim S
 
 ## Usage
 
-- Run the appropiate `.bat` file of the game you want to merge. **Note:** You will be asked to run the script as an admin
+- Run the appropriate `.bat` file of the game you want to merge. **Note:** You will be asked to run the script as an admin
 - After the merge verify that the VR version of the game works. Try starting a save game.
 - If everything is okay you can remove all `.org` files in the game's `data` directory.
 
