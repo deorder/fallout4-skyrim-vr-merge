@@ -1,4 +1,4 @@
-# fallout4-skyrim-vr-merge
+# Fallout 4 & Skyrim VR Merge
 Merge Fallout 4 and/or Skyrim SE with their VR counterparts by comparing MD5 hashes to find out what to link
 
 ## Description
