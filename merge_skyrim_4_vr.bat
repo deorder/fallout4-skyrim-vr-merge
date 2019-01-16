@@ -1,0 +1,1 @@
+powershell -Command "&{ Start-Process PowerShell -ArgumentList '-NoExit -file \"%~dp0merge_fallout_4_vr.ps1\"' -Verb RunAs }"
