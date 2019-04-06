@@ -3,7 +3,7 @@ Merge Fallout 4 and/or Skyrim SE with their VR counterparts by comparing MD5 has
 
 ## Description
 
-Unlike other merge scripts this one merges game assets by comparing the files in the game`s `data` folder using MD5 hashes to know what to link.
+Unlike other merge scripts this one merges game assets by comparing the files in the game's `data` folder using MD5 hashes to know what to link.
 
 ## Installation
 
